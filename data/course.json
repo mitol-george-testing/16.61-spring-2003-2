@@ -1,0 +1,39 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Aerodynamics"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Astrodynamics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a8f81254-5aac-4e1b-116b-6ed8d13e5f90",
+      "442742a5-f34c-1b97-76e5-2e8d7f59dc8d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Aerospace Dynamics",
+  "course_description": "This undergraduate course builds upon the dynamics content of Unified Engineering, a sophomore course taught in the Department of Aeronautics and Astronautics at MIT. Vector kinematics are applied to translation and rotation of rigid bodies. Newtonian and Lagrangian methods are used to formulate and solve equations of motion. Additional numerical methods are presented for solving rigid body dynamics problems. Examples and problems describe applications to aircraft flight dynamics and spacecraft attitude dynamics.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.61",
+  "learning_resource_types": [
+    "Exams",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
